@@ -70,17 +70,23 @@ The analysis covers course categories, levels, pricing models (free vs paid), su
 
 - Row-Level Security was implemented to restrict data visibility based on user roles, simulating real-world data access control scenarios.
   implented row level security on three roles
-  1. Web Developers
+  
+**1. Web Developers**
+  
 <p align="center">
-  <img src="Screenshot 2026-01-19 234502.png" alt="Project screenshot"/>
+  <img src="Screenshot 2026-01-19 234502.png" alt="Project screenshot"width="500"/>
     </p>  
-2. Business Finance
+    
+**2. Business Finance**
+
 <p align="center">
-  <img src="Screenshot 2026-01-19 234445.png" alt="Project screenshot"/>
+  <img src="Screenshot 2026-01-19 234932.png" alt="Project screenshot"width="500"/>
     </p> 
-3. Graphic Design
+    
+**3. Graphic Design**
+
     <p align="center">
-  <img src="Screenshot 2026-01-19 234445.png" alt="Project screenshot"/>
+  <img src="Screenshot 2026-01-19 234445.png" alt="Project screenshot"width="500"/>
     </p>
  
      
