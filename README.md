@@ -67,6 +67,11 @@ The analysis covers course categories, levels, pricing models (free vs paid), su
 # 🔐 Row-Level Security (RLS)
 
 - Row-Level Security was implemented to restrict data visibility based on user roles, simulating real-world data access control scenarios.
+  implented row level security on three roles
+  1. Web Developers
+     
+  3. Business Finance
+  4. Graphic Design
 ---
 
 ## 🔍 Key Insights
