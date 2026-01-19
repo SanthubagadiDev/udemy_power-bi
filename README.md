@@ -10,7 +10,8 @@ The analysis covers course categories, levels, pricing models (free vs paid), su
 ---
 ## 📊 Dashboard Preview
 
-![Udemy Power BI Dashboard](screenshots/dashboard.png)
+Screenshot 2026-01-19 230515.png
+
 
 
 ## 🎯 Objectives
