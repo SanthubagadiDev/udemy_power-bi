@@ -85,7 +85,7 @@ The analysis covers course categories, levels, pricing models (free vs paid), su
     
 **3. Graphic Design**
 
-    <p align="center">
+  <p align="center">
   <img src="Screenshot 2026-01-19 234445.png" alt="Project screenshot"width="500"/>
     </p>
  
