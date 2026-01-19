@@ -10,7 +10,9 @@ The analysis covers course categories, levels, pricing models (free vs paid), su
 ---
 ## 📊 Dashboard Preview
 
-![powerBI](Screenshot 2026-01-19 230515.png)
+<img src="Screenshot 2026-01-19 230515.png" alt="Project screenshot" width="500"/>
+
+
 
 
 
