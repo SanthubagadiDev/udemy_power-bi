@@ -35,7 +35,9 @@ The analysis covers course categories, levels, pricing models (free vs paid), su
 ## 📂 Dataset
 
 **Source:** https://www.kaggle.com/datasets/andrewmvd/udemy-courses/data
+
 **Format:** CSV
+
 **Key columns used:**
 
 - Course Title
@@ -70,7 +72,7 @@ The analysis covers course categories, levels, pricing models (free vs paid), su
   implented row level security on three roles
   1. Web Developers
 <p align="center">
-  <img src="Screenshot 2026-01-19 234445.png" alt="Project screenshot"/>
+  <img src="Screenshot 2026-01-19 234502.png" alt="Project screenshot"/>
     </p>  
 2. Business Finance
 <p align="center">
